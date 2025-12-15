@@ -1,6 +1,6 @@
 # LBS HackClub - Branding Assets
 
-![](LBS_HackClub_Transparent\LBS_HackClub_Banner_Transparent.png)
+![](https://raw.githubusercontent.com/lbsgbg-hackclub/brand/refs/heads/main/LBS_HackClub_Transparent/LBS_HackClub_Banner_Transparent.png)
 
 <hr>
 
